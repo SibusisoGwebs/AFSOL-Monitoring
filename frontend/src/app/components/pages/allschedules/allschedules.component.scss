@@ -1,0 +1,21 @@
+section{
+    padding-bottom: 50vh;
+}
+
+
+h1{
+    color: #00467F;
+    margin-top: 6%;
+}
+
+table{
+    color: #A5CC82;
+    background-image: linear-gradient(130deg, #1e7260, #7da35b);
+    opacity: 0.8;
+    border: 2px solid #00467F;
+}
+
+table:hover{
+    opacity: 1;
+    box-shadow: 1px 1px 1px 1px #00467F;
+}
